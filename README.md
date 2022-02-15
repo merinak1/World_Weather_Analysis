@@ -24,7 +24,7 @@ Following steps were taken
     * Using the Vacation hotels, 4 cities were picked within the United States, created the driving route and displayed on map. 
 
 ## Summary
-   The analysis can reused to plan for trip by scouring vacation destinations and picking final 4 cities for the trip. It can be tweaked to serch vacation spots within certain part of the World by changing latitude and longitude list. 
+   The analysis can reused to plan for trip by scouring vacation destinations and picking final 4 cities for the trip. It can be tweaked to search vacation spots within certain part of the World by changing latitude and longitude list. 
 
 
 
