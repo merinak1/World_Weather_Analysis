@@ -4,6 +4,9 @@ Python Using APIs
 ## Overview of Analysis
 The purpose of World Weather Analysis is to find potential lists of travel destinations and find nearby hotels in those cities. Then pick 4 cities and create travel itinerary.  
 
+## Tools Used
+* Python pandas,numpy, matplotlib 
+
 ## Process
 Following steps were taken 
 * Weather Database : 
